@@ -3,7 +3,6 @@ import sys
 import os
 import socket
 import subprocess
-from time import sleep
 
 r = '\033[031m'
 g = '\033[032m'
